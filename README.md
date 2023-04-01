@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ngock
-- 👀 I’m interested in Java or Backend roles
-- 🌱 I’m currently learning Spring and of course Java
-- 💞️ I’m looking to collaborate on Java for mobile app development
+- 👋 Hi, I’m Tran Kretz
+- 👀 I’m interested in Java and Backend/Fullstack roles
+- 🌱 I’m currently learning Java and looking for 
+- 💞️ I’m looking to collaborate on Spring Frameworks for mobile app development
 - 📫 https://www.linkedin.com/in/tran-kretz || ngocbitra@gmail.com
 
 <!---
