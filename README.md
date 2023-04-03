@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tran Kretz
-- 👀 I’m interested in Java and Backend/Fullstack roles
-- 🌱 I’m currently learning Java and looking for 
-- 💞️ I’m looking to collaborate on Spring Frameworks for mobile app development
+- 👀 I’m interested in OOP and Backend/Fullstack roles
+- 🌱 I’m currently learning Java and looking for software development roles.
+- 💞️ I’m also looking for collaboration on Spring Frameworks for mobile app development
 - 📫 https://www.linkedin.com/in/tran-kretz || ngocbitra@gmail.com
 
 <!---
