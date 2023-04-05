@@ -1,5 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋 Hi there, thanks for being here; I’m a undergraduate and a mom coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B129F7&width=435&lines=%F0%9F%91%8B+Hi+there%2C+thanks+for+being+here.;I%E2%80%99m+a+undergraduate+and+a+mom+coder)](https://git.io/typing-svg)
+
 - 💞️ I’m interested in OOP and Fullstack/Backend roles.
 - 🧐 Currently learning Java, Spring, MySQL and looking for software development roles.
 - 👀 I’m also looking for collaboration on Android app development
