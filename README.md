@@ -6,7 +6,7 @@
 - 👀 I’m also looking for new opportunities and challenges in IT world.
 - 📫 https://www.linkedin.com/in/tran-kretz || ngocbitra@gmail.com
 
-![Visitor Count](https://profile-counter.glitch.me/ngock/count.svg)
+Profile view: ![Visitor Count](https://profile-counter.glitch.me/ngock/count.svg)
 
 <!---
 ngock/ngock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
